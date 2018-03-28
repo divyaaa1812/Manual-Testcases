@@ -1,0 +1,20 @@
+Below are few scenarios for which I created Testcases in my past experience with Banking client on Credit Processing System.
+
+I was involved in UAT:
+
+TestScenario: 
+1) Validating credit applications reaching from Internet channel are approved when provided with valid details of customer.
+2) Validate credit applications with missing mandatory data(like DOB,SSN etc) are moved to Decline Queue with appropriate Rules configured as per config team.
+3) Validate new credit applications with Invlaid data(like Low income, SSN with Junk values etc) are moved to Pending Queue.
+4) Testcases to valdate all files in Pending Queue has appropriate letters and rules fired.
+5) validating College card credit applications with valid Income range are approved.
+
+In the process of this testing, after 6 months AUT(Application Under Test) is migrated from VB6 to .net for this we have testcases to test all the existing functionality has no impact on new system.
+ This include testcases validating UI functionality,field level validation, GUI validation.
+
+I was involved in testing different modules of credit processing system over the period of 3 years.
+ During this period I got opportunity to work on Preparing Testplan, Test scenarios and testcases on Excel sheets and upload to Quality Center Using Excel Plugin.
+ We had Sharepoint site for storing all our test documents.
+ Involved in finding regression Test suite and Executing them for every build.
+ 
+ 
